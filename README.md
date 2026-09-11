@@ -31,11 +31,11 @@ Optionally, it can also:
 
 ## Download
 
-**[v1.5.0](https://github.com/stoatworks-labs/nc-filedropbatch/releases/tag/v1.5.0)**
+**[v1.5.1](https://github.com/stoatworks-labs/nc-filedropbatch/releases/tag/v1.5.1)**
 
 This release contains:
 
-- [`filedropbatch-1.5.0.tar.gz`](https://github.com/stoatworks-labs/nc-filedropbatch/releases/download/v1.5.0/filedropbatch-1.5.0.tar.gz) — Nextcloud app package, 58 KB
+- [`filedropbatch-1.5.1.tar.gz`](https://github.com/stoatworks-labs/nc-filedropbatch/releases/download/v1.5.1/filedropbatch-1.5.1.tar.gz) — Nextcloud app package, 58 KB
 
 All builds, checksums and release notes: [github.com/stoatworks-labs/nc-filedropbatch/releases](https://github.com/stoatworks-labs/nc-filedropbatch/releases).
 
